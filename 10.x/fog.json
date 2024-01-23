@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "GADGETNiK (WolfAURman Team)",
+        "oem": "Xiaomi",
+        "device": "Redmi 10C",
+        "filename": "crDroidAndroid-13.0-20240103-fog-v9.12-GAPPS.zip",
+        "download": "https://github.com/GADGETNiK/crdroid_ota_oss_nonksu/releases/download/crDroidAndroid-13.0-20240103-fog-v9.12-GAPPS/crDroidAndroid-13.0-20240103-fog-v9.12-GAPPS.zip",
+        "timestamp": 1704235400,
+        "md5": "6338b66d9267b53999a9319a57bcff7d",
+        "sha256": "c931a085f2b5e30d8bd133b2bc56be5a37d5ba11c9f55e17f326cb595b5941b0",
+        "size": 1572848924,
+        "version": "9.12",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/GADGETNiK",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}
