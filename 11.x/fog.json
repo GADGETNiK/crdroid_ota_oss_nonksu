@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "GADGETNiK (WolfAURman Team)",
+        "oem": "Xiaomi",
+        "device": "Redmi 10C",
+        "filename": "crDroidAndroid-15.0-20241101-fog-v11.0-BETA.zip",
+        "download": "https://github.com/GADGETNiK/crdroid_ota_oss_nonksu/releases/download/crDroidAndroid-15.0-20241101-fog-v11.0-BETA/crDroidAndroid-15.0-20241101-fog-v11.0-BETA.zip",
+        "timestamp": 1730490448,
+        "md5": "764fa36274653d5957f71e9047d541e0",
+        "sha256": "860b23d718555fb7d878e21f125515625bc0ff5092d62d820ef0915c80fa8ae8",
+        "size": 1206964741,
+        "version": "11.0",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/GADGETNiK",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}
