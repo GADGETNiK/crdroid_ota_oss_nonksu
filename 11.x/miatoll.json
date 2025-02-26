@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "GADGETNiK (WolfAURman Team)",
+        "oem": "Xiaomi",
+        "device": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max",
+        "filename": "crDroidAndroid-15.0-20250226-miatoll-v11.2.zip",
+        "download": "https://github.com/GADGETNiK/crdroid_ota_oss_nonksu/releases/download/crDroidAndroid-15.0-20250226-miatoll-v11.2/crDroidAndroid-15.0-20250226-miatoll-v11.2.zip",
+        "timestamp": 1740594161,
+        "md5": "195e846f0bc7b4f3b3d6d03009e4ebae",
+        "sha256": "a29efd784d33850167c751e25425c53f06151ab334e89e4ccc0636f207c044e9",
+        "size": 1485855139,
+        "version": "11.2",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/GADGETNiK",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}
