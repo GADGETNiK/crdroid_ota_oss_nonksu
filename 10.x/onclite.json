@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "GADGETNiK (WolfAURman Team)",
+        "oem": "Xiaomi",
+        "device": "Redmi 7/Y3",
+        "filename": "crDroidAndroid-14.0-20250228-onclite-v10.12.zip",
+        "download": "https://github.com/GADGETNiK/crdroid_ota_oss_nonksu/releases/download/crDroidAndroid-14.0-20250228-onclite-v10.12/crDroidAndroid-14.0-20250228-onclite-v10.12.zip",
+        "timestamp": 1740750106,
+        "md5": "c6f6cb79b8b52c298e9f1f4939353626",
+        "sha256": "a0e066019c8eb4d50e30cb3e1cd450901b7fc37e2ef067ca13c790474edea756",
+        "size": 1185563455,
+        "version": "10.12",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/GADGETNiK",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}
